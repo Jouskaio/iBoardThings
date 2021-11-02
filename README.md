@@ -1,4 +1,4 @@
-# iBoardthings
+# iBoardThings
 
 When working on several IoT project with differents data, sensor or/and clients, we need an interface to have an overview of everything.
 Actually, there are several CMS like ThingsBoard, Arduino IoT Cloud or Particle who offer a complete paid service for everyone but I wanted to create a template pretty simple and free for myself where I could do the same things in an environment where I have the full control.
