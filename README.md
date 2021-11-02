@@ -15,6 +15,6 @@ To start the project, there will be some installation to do (I promise I will au
 
 3. I'm working on a temporary local database so I didn't need to hide theses informations but I advise you to connect to another database in the API > setting.py 
 
-4. Go the web part and do `npm install` then ``npm start`
+4. Go the web part and do `npm install` then `npm start`
 
 The project is currently not working because it's in development and I hide several important information
