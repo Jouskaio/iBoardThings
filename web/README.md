@@ -2,11 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Importations
-
-* [`react-bootstrap bootstrap@5.1.3`](https://react-bootstrap.github.io/components)
-
-
 ## Available Scripts
 
 In the project directory, you can run:
